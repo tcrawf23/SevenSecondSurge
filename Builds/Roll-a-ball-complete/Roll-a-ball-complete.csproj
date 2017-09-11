@@ -218,12 +218,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="C:\Users\tcraw\Documents\Games\Roll-a-ball-complete\Builds\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
+    <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
       <Project>{b1ebb3b8-04b4-414b-96fa-0900bbe58f11}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\tcraw\Documents\Games\Roll-a-ball-complete\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
+    <ProjectReference Include="..\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
       <Project>{9a8afc20-99e7-4c04-8d4b-b5dbea952f83}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
